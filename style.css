@@ -1,0 +1,27 @@
+
+*{
+    margin: 0px;
+}
+body{
+    background-image: url('./assets/keyboard.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: black;
+    }
+/* 
+.main{
+
+    height: 400px;
+}
+.inside{
+    padding: 20px;
+    margin-left: 50%;
+}
+
+p{
+    color:black;
+    font-size: xx-large;
+    align-content: center;
+    justify-content: center;
+} */
+
